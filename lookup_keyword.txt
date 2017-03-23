@@ -1,0 +1,7 @@
+car
+baby
+bike
+house
+home
+property
+villa
